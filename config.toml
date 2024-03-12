@@ -1,0 +1,51 @@
+baseurl = "https://jacalz.github.io"
+title = "JACALZ"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Jacob Alzén"
+  info = "Third year Computer Science and Engineering student. Linux user, amateur photographer and trail runner."
+  description = "Jacob Alzén's personal website"
+  keywords = "developer,personal"
+  avatarurl = "https://avatars.githubusercontent.com/u/25466657?v=4"
+  #avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jacalz/"
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
