@@ -6,6 +6,8 @@ aliases = ["projects"]
 author = "Jacob Alzén"
 +++
 
+This page guides you through some of my work on open source projects.
+
 # Roles in other projects
 
 I am currently contributing to various open source projects. A list of projects where I am an active member is attached below:
