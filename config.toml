@@ -1,0 +1,52 @@
+baseurl = "https://jacalz.github.io"
+title = "Jacob Alzén"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Jacob Alzén"
+  info = "Open source developer, amateur photographer, and trail runner."
+  description = "Jacob Alzén's personal website"
+  keywords = "developer,personal"
+  avatarurl = "/img/avatar.jpg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jacalz/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/jacalz"
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
