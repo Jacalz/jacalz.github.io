@@ -6,7 +6,7 @@ aliases = ["about-me", "about-jacalz", "about-jacob-alzén", "contact"]
 author = "Jacob Alzén"
 +++
 
-![](/img/avatar.jpg)
+[![Avatar](/img/avatar.jpg)](https://github.com/Jacalz)
 
 My name is Jacob Alzén and I'm an open source advocate and developer, amateur photographer, and long distance trail runner from Sweden. I'm currently studying my third year of Computer Science and Engineering  at Linköping University, Sweden.
 
