@@ -1,5 +1,5 @@
 baseurl = "https://jacalz.github.io"
-title = "JACALZ"
+title = "Jacob Alzén"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,14 +11,10 @@ style = "github-dark"
 
 [params]
   author = "Jacob Alzén"
-  info = "Third year Computer Science and Engineering student. Linux user, amateur photographer and trail runner."
+  info = "Open source developer, amateur photographer, and trail runner."
   description = "Jacob Alzén's personal website"
   keywords = "developer,personal"
-  avatarurl = "https://avatars.githubusercontent.com/u/25466657?v=4"
-  #avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
-
-  faviconSVG = "/img/favicon.svg"
+  avatarurl = "/img/avatar.jpg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
@@ -39,6 +35,11 @@ style = "github-dark"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/jacalz/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/jacalz"
 
 # Menu links
 [[menu.main]]
