@@ -6,7 +6,14 @@ aliases = ["projects"]
 author = "Jacob Alzén"
 +++
 
-# Current Projects
+# Roles in other projects
+
+I am currently contributing to various open source projects. A list of projects where I am an active member is attached below:
+- **[Fyne](https://fyne.io):** Part of the team of core developers maintaining and planning work on Fyne. Responsible for CI infrastructure, Flatpak support, and much more.
+- **[go-gl/glfw](https://github.com/go-gl/glfw):** Maintainer, mostly working on updating the GLFW version to be in sync with upstream.
+
+
+# Active Projects
 
 Below is a list of some of my current projects. These are in constant development.
 
