@@ -27,6 +27,11 @@ The transfers are implemented using [wormhole-william](https://github.com/psanfo
 
 ![rymdport](https://raw.githubusercontent.com/Jacalz/rymdport/main/internal/assets/screenshot1.png)
 
+## [Hegelmote](https://github.com/Jacalz/hegelmote)
+
+This Go package allows remote IP control of Hegel amplifiers. It connects using tcp to the address and port of the amplifier and allows sending commands to control parameters like power, input and volume.
+The plan is to also implement a graphical application to control your amplifier at home.
+
 ## [3D Wireframes using Linear Algebra](https://github.com/Jacalz/linedisp)
 
 Using coordinate matrices and linear algebra, we can project a 3D model on screen. A linear map using rotation and scale matrices allows support for both rotation and zoom.
