@@ -51,3 +51,7 @@ style = "github-dark"
   name = "About"
   weight = 2
   url = "about/"
+
+# Not actually unsafe given that I am in control of my own content:
+[markup.goldmark.renderer]
+  unsafe = true
