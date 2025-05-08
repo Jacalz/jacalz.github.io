@@ -37,6 +37,7 @@ The transfers are implemented using [wormhole-william](https://github.com/psanfo
 
 ![rymdport](https://raw.githubusercontent.com/Jacalz/rymdport/main/internal/assets/screenshot1.png)
 
+<a href='https://flathub.org/apps/details/io.github.jacalz.rymdport'><img width='200' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.svg'/></a>
 
 # Previous Projects
 
